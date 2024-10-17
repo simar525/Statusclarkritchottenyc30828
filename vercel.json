@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "/",       "destination": "https://app.uptimemonster.com/status-page/8VxMuNZ247Yf",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://app.uptimemonster.com/status-page/nY8xNBRW4zqg/$1"
- }
+    }
   ]
 }
+    
